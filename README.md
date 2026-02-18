@@ -33,5 +33,5 @@ Currently, I am building polished web interfaces at **[SCALATER](https://github.
 ---
 
 * **X (Twitter):** [@edisoft00](https://twitter.com/edisoft00)
-* **LinkedIn:** [linkedin.com/in/edisoft00](https://linkedin.com/in/edisoft00)
-* **Portfolio:** [Check out my full portfolio](https://edisoft00.com)
+* **LinkedIn:** [@edisoft00](https://linkedin.com/in/edisoft00)
+* **Portfolio:** [edisoft00.com](https://edisoft00.com)
