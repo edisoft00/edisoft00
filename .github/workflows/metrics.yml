@@ -5,7 +5,7 @@ name: Metrics
 on:
   schedule: [{cron: "0 10 * * *"}]
   workflow_dispatch:
-  # push: {branches: ["main"]}
+  push: {branches: ["main"]}
 
 jobs:
   github-metrics:
@@ -25,6 +25,8 @@ jobs:
           config_timezone: America/Chicago
           base: header, activity, community, repositories
           repositories_affiliations: owner, collaborator
+          committer_branch: assets
+          filename: metrics.svg
 
           # Calendar
           plugin_isocalendar: yes
