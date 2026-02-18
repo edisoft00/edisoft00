@@ -1,9 +1,11 @@
+# Reference https://github.com/lowlighter/metrics/blob/master/action.yml
+
 name: Metrics
 
 on:
   schedule: [{cron: "0 10 * * *"}]
   workflow_dispatch:
-  push: {branches: ["main"]}
+  # push: {branches: ["main"]}
 
 jobs:
   github-metrics:
