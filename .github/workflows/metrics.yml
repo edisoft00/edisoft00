@@ -3,9 +3,17 @@
 name: Metrics
 
 on:
-  schedule: [{cron: "0 10 * * *"}]
+  schedule:
+    - cron: '50 5 * 1-2,11-12 *' # Winter
+    - cron: '50 4 * 3-10 *' # Summer
+
   workflow_dispatch:
-  push: {branches: ["main"]}
+
+  push:
+    branches:
+      - main
+    paths:
+      - .github/workflows/metrics.yml
 
 concurrency:
   group: metrics
