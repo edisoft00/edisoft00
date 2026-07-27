@@ -4,7 +4,7 @@ name: Metrics
 
 on:
   schedule:
-    - cron: '30 4 * * *'
+    - cron: '30 23 * * *'
 
   workflow_dispatch:
 
