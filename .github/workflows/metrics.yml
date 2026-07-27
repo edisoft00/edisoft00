@@ -4,8 +4,7 @@ name: Metrics
 
 on:
   schedule:
-    - cron: '50 4 * 1-2,11-12 *' # Winter
-    - cron: '50 3 * 3-10 *' # Summer
+    - cron: '30 4 * * *'
 
   workflow_dispatch:
 
