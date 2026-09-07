@@ -4,7 +4,7 @@
 
 I build high-performance web applications, scalable design systems, and developer tools. With **9+ years of engineering experience**, I focus on blending UI craftsmanship with solid architecture and AI integration.
 
-Currently, I am building polished web interfaces at **[SCALATER](https://github.com/scalater)**.
+Currently, I am building the best webs at **[SCALATER](https://github.com/scalater)**.
 
 ---
 
@@ -49,6 +49,5 @@ Currently, I am building polished web interfaces at **[SCALATER](https://github.
 
 ### 📬 Connect
 
-[![Portfolio](https://img.shields.io/badge/-edisoft00.com-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://edisoft00.com)
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/-edisoft00-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/edisoft00)
 [![X](https://img.shields.io/badge/-@edisoft00-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/edisoft00)
