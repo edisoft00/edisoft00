@@ -37,9 +37,10 @@ jobs:
           user: edisoft00
           template: classic
           config_timezone: America/Chicago
-          base: header, activity, community, repositories
+          # Only activity: header, community and repositories show follower/star/license counts that read as zeros
+          base: activity
           repositories_affiliations: owner, collaborator
 
           # Calendar
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
+          plugin_isocalendar_duration: full-year
